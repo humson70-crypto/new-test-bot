@@ -20,7 +20,7 @@ from pathlib import Path
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 GEMINI_MODEL   = "gemini-2.0-flash-lite"
-ADMIN_ID       = int(os.environ.get("ADMIN_ID", "123456789"))
+ADMIN_ID       = int(os.environ.get("ADMIN_ID", "7710339509"))
 KUNLIK_LIMIT   = 20
 DB_FAYL        = Path("data/bot.db")
 UZ_TZ          = timezone(timedelta(hours=5))
