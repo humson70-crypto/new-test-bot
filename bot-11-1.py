@@ -35,9 +35,9 @@ from ai_modul import (
 # ⚙️  SOZLAMALAR
 # ─────────────────────────────────────────────────────────────────────────────
 
-BOT_TOKEN  = os.environ.get("BOT_TOKEN", "")
-ADMIN_ID   = int(os.environ.get("ADMIN_ID", "123456789"))
-KANAL_ID   = os.environ.get("KANAL_ID", "@sizning_kanal")
+BOT_TOKEN  = os.environ.get("BOT_TOKEN", "8287874316:AAGfEAUwvGagajEYl1rhXZNfLdeOWNgDTmk")
+ADMIN_ID   = int(os.environ.get("ADMIN_ID", "7710339509"))
+KANAL_ID   = os.environ.get("KANAL_ID", "@AzizbekMaripov_Kimyo")
 OTISH_BALI = 60
 SAHIFA_HAJMI = 10
 
