@@ -1,0 +1,21 @@
+# Maxfiy fayllar
+.env
+
+# Bot ma'lumotlar bazasi
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
